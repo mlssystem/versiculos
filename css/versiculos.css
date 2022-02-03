@@ -9,11 +9,11 @@
   background: url(../img/jerusalem.PNG) no-repeat;
 }
 
-.img-joao-3-16 {  
+.img-joao-3-16 {
   background: url(../img/filho-amado.png) no-repeat;
 }
 
-.img-1tessalonicenses-4-15 {  
+.img-1tessalonicenses-4-15 {
   background: url(../img/arrebatamento.PNG) no-repeat;
 }
 
@@ -35,4 +35,16 @@
 
 .img-proverbios-9-10 {
   background: url(../img/sabedoria.png) no-repeat;
+}
+
+.img-galatas-5-22 {
+  background: url(../img/fruto.jpg) no-repeat;
+}
+
+.img-joao-13-34 {
+  background: url(../img/proximo.jpg) no-repeat;
+}
+
+.img-joao-3-3 {
+  background: linear-gradient(65deg, #FF0000, #10F140, #5A4525);
 }
